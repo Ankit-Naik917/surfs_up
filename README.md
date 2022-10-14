@@ -26,4 +26,5 @@ Based on the histogram results shown in the image below indicates that Oahu is a
 
 ### December Histogram
 
-![Dec_Histogram](https://user-images.githubusercontent.com/103617509/195752164-0f048551-1dde-44e6-9bed-6b63af0fc35f.png)
+![Dec_Histogram](https://user-images.githubusercontent.com/103617509/195755264-43dd414e-dd32-4422-b44b-206dc7ec6d44.png)
+
