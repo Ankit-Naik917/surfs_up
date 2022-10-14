@@ -18,7 +18,7 @@ Based on the image below, it can be seen that over the course of  7 years there 
    
     
 ## Summary:
-Based on the histogram results shown in the image below indicates that Oahu is an ideal location for investing in surf n' shake shop. More than 80% of the time the temperature has been above 71 degrees Fahrenheit which make it an ideal business.
+Based on the histogram results shown in the image below indicates that Oahu is an ideal location for investing in surf n' shake shop. More than 85% of the time the temperature has been above 71 degrees Fahrenheit which make it an ideal business.
 
 ### June Historgram 
 
